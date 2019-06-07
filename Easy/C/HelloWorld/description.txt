@@ -1,25 +1,27 @@
-Objective
+Objective:
 
-In this challenge, we will learn some basic concepts of C that will get you started with the language. You will need to use the same syntax to read input and write output in many C challenges.
+In this challenge, we will learn some basic concepts of C that will get you started with the language. 
+You will need to use the same syntax to read input and write output in many C challenges.
 
-Task
+Task:
 
-This challenge requires you to print "Hello, World!" on a single line, and then print the already provided input string to stdout.
+This challenge requires you to print "Hello, World!" on a single line, and then print the already provided input string to the 'stdout'.
 
-Note: You do not need to read any input in this challenge.
+Note: You do not need to read any input in this challenge!
 
-Input Format
+Input Format:
 
 You do not need to read any input in this challenge.
 
-Output Format
+Output Format:
 
 Print "Hello, World!" on the first line, and the string from the given input on the second line.
 
-Sample Input 0
+Sample Input:
 
 Welcome to C programming.
-Sample Output 0
+
+Sample Output:
 
 Hello, World!
 Welcome to C programming.
