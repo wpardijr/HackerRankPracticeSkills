@@ -29,13 +29,13 @@ int max_of_four(int n1, int n2, int n3, int n4)
 
 int main() 
 {
-      int a, b, c, d;
+        int a, b, c, d;
     
-      scanf("%d %d %d %d", &a, &b, &c, &d);
+        scanf("%d %d %d %d", &a, &b, &c, &d);
     
-      int ans = max_of_four(a, b, c, d);
+        int ans = max_of_four(a, b, c, d);
     
-      printf("%d", ans);
+        printf("%d", ans);
     
-      return 0;
+        return 0;
 }
