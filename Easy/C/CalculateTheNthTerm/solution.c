@@ -16,18 +16,18 @@ int find_nth_term(int n, int a, int b, int c)
         
                 if(m == 4)
                         sum = a + b + c;
-                else if (m == 5)
+                else if(m == 5)
                 {
                         a = sum;
                         sum = a + b + c;
                 }
-                else if (m == 6)
+                else if(m == 6)
                 {
                         b = a;
                         a = sum;
                         sum = a + b + c;
                 }
-                else if (m > 6)
+                else if(m > 6)
                 {
                         c = b;
                         b = a;
