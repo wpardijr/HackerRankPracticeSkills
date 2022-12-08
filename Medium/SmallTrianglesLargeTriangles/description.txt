@@ -21,20 +21,20 @@ Output Format:
 
 Print exactly n lines. On each line print 3 space-separated integers, the ai, bi and ci of the corresponding triangle.
 
-Sample Input 0
+Sample Input 0:
 
 3
 7 24 25
 5 12 13
 3 4 5
 
-Sample Output 0
+Sample Output 0:
 
 3 4 5
 5 12 13
 7 24 25
 
-Explanation 0
+Explanation 0:
 
 The square of the first triangle is 84. The square of the second triangle is 30. The square of the third triangle is 6. 
 So the sorted order is the reverse one.
