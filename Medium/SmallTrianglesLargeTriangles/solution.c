@@ -33,12 +33,12 @@ void sort_by_area(triangle* tr, int n)
 		{
 			if(S[j] > S[j+1])
 			{
-				// Swapp the array of areas
+				// Swap the array of areas
 				temp = S[j];
 				S[j] = S[j + 1];
 				S[j + 1] = temp;
 				
-				// Swapp the array of triangles in ascending order and simultaneously its structure contents
+				// Swap the array of triangles in ascending order and simultaneously its structure contents
 				temp = tr[j].a;
 				tr[j].a = tr[j + 1].a;
 				tr[j + 1].a =temp;
